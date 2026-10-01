@@ -1,3 +1,7 @@
+# SID: C113181103<BR>
+# Name: 鍾睿紘<BR>
+EX04
+<HR>
 <?php
 define("PI", 3.1415926);  // 常數宣告
 define("AREA", "面積");

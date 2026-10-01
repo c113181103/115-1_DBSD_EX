@@ -1,3 +1,7 @@
+# SID: C113181103<BR>
+# Name: 鍾睿紘<BR>
+EX05
+<HR>
 <?php
 function square(float|int $v): int|float
 {
