@@ -1,3 +1,7 @@
+# Name:鍾睿紘 <BR>
+# SID:C113181103 <BR>
+#EX03
+<HR>
 <?php
 $result = 0;
 $n = 0;

@@ -1,3 +1,7 @@
+# Name:鍾睿紘 <BR>
+# SID:C113181103 <BR>
+#EX01
+<HR>
 <?php
 $grade = 70;
 
